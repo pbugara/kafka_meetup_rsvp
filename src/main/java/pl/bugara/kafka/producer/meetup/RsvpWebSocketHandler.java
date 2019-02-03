@@ -1,4 +1,4 @@
-package pl.bugara.kafka.meetup;
+package pl.bugara.kafka.producer.meetup;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.WebSocketMessage;

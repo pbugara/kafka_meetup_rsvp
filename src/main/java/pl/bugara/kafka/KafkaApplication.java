@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.socket.client.WebSocketClient;
 import org.springframework.web.socket.client.standard.StandardWebSocketClient;
-import pl.bugara.kafka.meetup.RsvpWebSocketHandler;
+import pl.bugara.kafka.producer.meetup.RsvpWebSocketHandler;
 
 @SpringBootApplication
 public class KafkaApplication {
